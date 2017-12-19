@@ -1,0 +1,507 @@
+<!doctype html>
+
+<!--[if lt IE 7]><html lang="es-ES" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="es-ES" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="es-ES" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="es-ES" class="no-js"><!--<![endif]-->
+
+	<head>
+		<meta charset="utf-8">
+
+				<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<title>Area Metropolitana De Barranquilla  No se encontró la página</title>
+
+				<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+				<link rel="apple-touch-icon" href="http://www.ambq.gov.co/wp-content/themes/ambq/library/images/apple-touch-icon.png">
+		<link rel="icon" href="http://www.ambq.gov.co/wp-content/themes/ambq/favicon.png?v=1.0">
+		<!--[if IE]>
+			<link rel="shortcut icon" href="http://www.ambq.gov.co/wp-content/themes/ambq/favicon.ico?v=1.0">
+		<![endif]-->
+				<meta name="msapplication-TileColor" content="#f01d4f">
+		<meta name="msapplication-TileImage" content="http://www.ambq.gov.co/wp-content/themes/ambq/library/images/win8-tile-icon.png">
+            <meta name="theme-color" content="#121212">
+
+		<link rel="pingback" href="http://www.ambq.gov.co/xmlrpc.php">
+		
+      
+
+				<style type='text/css'></style>                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Open+Sans:400', 'Roboto+Condensed:300,400']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                    <meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com'>
+<link rel='dns-prefetch' href='//s.w.org'>
+<link rel="alternate" type="application/rss+xml" title="Area Metropolitana De Barranquilla &raquo; Feed" href="http://www.ambq.gov.co/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Area Metropolitana De Barranquilla &raquo; RSS de los comentarios" href="http://www.ambq.gov.co/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.ambq.gov.co\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://www.ambq.gov.co/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='http://www.ambq.gov.co/wp-content/plugins/menu-icons/css/extra.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.ambq.gov.co/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cws-google-picasa-pro-css'  href='http://www.ambq.gov.co/wp-content/plugins/google-picasa-albums-viewer/public/css/cws-google-picasa-pro-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css'  href='http://www.ambq.gov.co/wp-content/plugins/google-picasa-albums-viewer/public/css/lightbox/lightbox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cws_gpp_thumbnail_grid_css-css'  href='http://www.ambq.gov.co/wp-content/plugins/google-picasa-albums-viewer/public/css/default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cws_gpp_thumbnail_grid_css1-css'  href='http://www.ambq.gov.co/wp-content/plugins/google-picasa-albums-viewer/public/css/component.css' type='text/css' media='all' />
+<link rel='stylesheet' id='googleFonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='footable-core-min-css'  href='http://www.ambq.gov.co/wp-content/plugins/footable/css/footable.core.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='footable-standalone-min-css'  href='http://www.ambq.gov.co/wp-content/plugins/footable/css/footable.standalone.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='http://www.ambq.gov.co?sccss=1' type='text/css' media='all' />
+<link rel='stylesheet' id='bones-stylesheet-css'  href='http://www.ambq.gov.co/wp-content/themes/ambq/library/css/style.css' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='bones-ie-only-css'  href='http://www.ambq.gov.co/wp-content/themes/ambq/library/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/plugins/google-picasa-albums-viewer/public/js/cws-google-picasa-pro-public.js'></script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/plugins/footable/js/footable.min.js'></script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/plugins/footable/js/footable.sort.min.js'></script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/plugins/footable/js/footable.filter.min.js'></script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/plugins/footable/js/footable.paginate.min.js'></script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/themes/ambq/library/js/libs/modernizr.custom.min.js'></script>
+<link rel='https://api.w.org/' href='http://www.ambq.gov.co/wp-json/' />
+<meta name="generator" content="Youtube Showcase v2.3.0 - https://emdplugins.com" />
+<script type="text/javascript">/* FooTable init code */
+
+var $FOOTABLE = $FOOTABLE || {};
+(function( $FOOTABLE, $, undefined ) {
+
+	jQuery.fn.attrAppendWithComma=function(a,b){var c;return this.each(function(){c=$(this),void 0!==c.attr(a)&&""!=c.attr(a)?c.attr(a,c.attr(a)+","+b):c.attr(a,b)})};jQuery.fn.footableAttr=function(a,b){return this.each(function(){var c=$(this);c.data("auto-columns")!==!1&&(c.find("thead th:gt("+a+")").attrAppendWithComma("data-hide","tablet"),c.find("thead th:gt("+b+")").attrAppendWithComma("data-hide","phone"))})},jQuery.fn.footableFilter=function(a){return this.each(function(){var b=$(this);b.data("filter")||b.data("filter")===!1||b.data("filter-text-only","true").before('<div class="footable-filter-container"><input placeholder="'+a+'" style="float:right" type="text" class="footable-filter" /></div>')})},jQuery.fn.footablePager=function(){return this.each(function(){var a=$(this);if(a.data("page")!==!1){var b=$('<tfoot class="hide-if-no-paging"><tr><td><div class="pagination pagination-centered"></div></td></tr></tfoot>');b.find("td").attr("colspan",a.find("thead th").length),a.find("tbody:last").after(b)}})};
+
+	$FOOTABLE.init = function() {
+		$(".footable")
+			.footableAttr(3,1)
+			.footableFilter("search")
+			.footablePager()
+			.footable( { breakpoints: { phone: 320, tablet: 768 } });
+
+	};
+}( $FOOTABLE, jQuery ));
+
+jQuery(function($) {
+	$FOOTABLE.init();
+});
+</script><style type="text/css" media="screen">body{position:relative}#dynamic-to-top{display:none;overflow:hidden;width:auto;z-index:90;position:fixed;bottom:20px;right:20px;top:auto;left:auto;font-family:sans-serif;font-size:1em;color:#fff;text-decoration:none;text-shadow:0 1px 0 #333;font-weight:bold;padding:17px 16px;border:0px solid #00408f;background:#00408f;-webkit-background-origin:border;-moz-background-origin:border;-icab-background-origin:border;-khtml-background-origin:border;-o-background-origin:border;background-origin:border;-webkit-background-clip:padding-box;-moz-background-clip:padding-box;-icab-background-clip:padding-box;-khtml-background-clip:padding-box;-o-background-clip:padding-box;background-clip:padding-box;-webkit-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-ms-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-moz-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-o-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-khtml-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-icab-box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );box-shadow:0 1px 3px rgba( 0, 0, 0, 0.4 ), inset 0 0 0 1px rgba( 0, 0, 0, 0.2 ), inset 0 1px 0 rgba( 255, 255, 255, .4 ), inset 0 10px 10px rgba( 255, 255, 255, .1 );-webkit-border-radius:30px;-moz-border-radius:30px;-icab-border-radius:30px;-khtml-border-radius:30px;border-radius:30px}#dynamic-to-top:hover{background:#4d4f52;background:#00408f -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 255, 255, 255, .2 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#00408f -webkit-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#00408f -khtml-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#00408f -moz-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#00408f -o-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#00408f -ms-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#00408f -icab-linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );background:#00408f linear-gradient( top, rgba( 255, 255, 255, .2 ), rgba( 0, 0, 0, 0 ) );cursor:pointer}#dynamic-to-top:active{background:#00408f;background:#00408f -webkit-gradient( linear, 0% 0%, 0% 100%, from( rgba( 0, 0, 0, .3 ) ), to( rgba( 0, 0, 0, 0 ) ) );background:#00408f -webkit-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#00408f -moz-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#00408f -khtml-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#00408f -o-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#00408f -ms-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#00408f -icab-linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) );background:#00408f linear-gradient( top, rgba( 0, 0, 0, .1 ), rgba( 0, 0, 0, 0 ) )}#dynamic-to-top,#dynamic-to-top:active,#dynamic-to-top:focus,#dynamic-to-top:hover{outline:none}#dynamic-to-top span{display:block;overflow:hidden;width:14px;height:12px;background:url( http://www.ambq.gov.co/wp-content/plugins/dynamic-to-top/css/images/up.png )no-repeat center center}</style><link rel="icon" href="http://www.ambq.gov.co/wp-content/uploads/2016/09/cropped-area-metropolitana-de-barranquilla-125x125.png" sizes="32x32" />
+<link rel="icon" href="http://www.ambq.gov.co/wp-content/uploads/2016/09/cropped-area-metropolitana-de-barranquilla-350x350.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.ambq.gov.co/wp-content/uploads/2016/09/cropped-area-metropolitana-de-barranquilla-350x350.png" />
+<meta name="msapplication-TileImage" content="http://www.ambq.gov.co/wp-content/uploads/2016/09/cropped-area-metropolitana-de-barranquilla-350x350.png" />
+		        
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+                
+        <link media="all" type="text/css" href="http://www.ambq.gov.co/wp-content/themes/ambq/library/bootstrap/css/bootstrap.min.css"  id="bones-stylesheet-css" rel="stylesheet">
+		<script src="http://www.ambq.gov.co/wp-content/themes/ambq/library/bootstrap/js/bootstrap.min.js"></script>
+        
+        <script src="http://www.ambq.gov.co/wp-content/themes/ambq/library/js/jquery.flexisel.js"></script>
+        
+        
+       	<link media="all" type="text/css" href="http://www.ambq.gov.co/wp-content/themes/ambq/style.css?v=1.0.07"  id="bones-stylesheet-css" rel="stylesheet">
+
+				        
+        <script type="text/javascript">
+        $(document).ready(function(){
+			$(".desplegable ul.sub-menu").hide();
+			$(".desplegable > a").click(function(){
+				$(this).parent().find("ul.sub-menu").toggle(200);
+					
+			});
+			
+		});
+        </script>
+
+	</head>
+
+	<body class="error404" itemscope itemtype="http://schema.org/WebPage">
+    
+    	<div class="social hidden-xs">
+            <ul>
+                <li><a href="https://www.facebook.com/ambq.metropolicaribe" title="Area Metropolitana de Barranquilla en Facebook" target="_blank" class="icon-facebook"></a></li>
+                <li><a href="https://twitter.com/ambquilla" target="_blank" title="Area Metropolitana de Barranquilla en Twitter" class="icon-twitter"></a></li>
+                <li><a href="https://www.instagram.com/ambquilla/" target="_blank" title="Area Metropolitana de Barranquilla en Instagram" class="icon-instagram"></a></li>
+                <li><a href="https://www.youtube.com/channel/UCN2CaeK8gPTt6E4WSK8dVsg" target="_blank" title="Area Metropolitana de Barranquilla en Youtube" class="icon-youtube"></a></li>
+                <li><a href="http://www.ambq.my/contacto" class="icon-mail2" title="Contáctanos"></a></li>
+            </ul>
+        </div>
+
+		<div id="container">
+
+			<header class="header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+            	<div class="menu-principal hidden-xs">
+  					<div class="menu-barra">
+                 		<div class="mun-izq"></div>     
+                    	<div class="list-menu nav">
+                          	<div class="menu-menu-principal-superior-container"><ul id="menu-menu-principal-superior" class="menu"><li id="menu-item-701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-701"><a href="http://www.ambq.gov.co/mapa-del-sitio/">Mapa del Sitio</a></li>
+<li id="menu-item-700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-700"><a href="http://www.ambq.gov.co/sistema-de-gestion-de-calidad/">Sistema de Gestión de Calidad</a>
+<ul class="sub-menu">
+	<li id="menu-item-711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711"><a href="http://www.ambq.gov.co/sistema-de-gestion-de-calidad/politica-de-calidad/">Política de Calidad</a></li>
+	<li id="menu-item-714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-714"><a href="http://www.ambq.gov.co/sistema-de-gestion-de-calidad/objetivos/">Objetivos</a></li>
+	<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="http://www.ambq.gov.co/sistema-de-gestion-de-calidad/mapa-de-procesos/">Mapa de Procesos</a></li>
+	<li id="menu-item-723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723"><a href="http://www.ambq.gov.co/sistema-de-gestion-de-calidad/manual-de-calidad/">Manual de Calidad</a></li>
+</ul>
+</li>
+<li id="menu-item-825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-825"><a href="http://www.ambq.gov.co/junta-metropolitana/">Junta Metropolitana</a></li>
+<li id="menu-item-703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-703"><a>Nuestros Municipios</a>
+<ul class="sub-menu">
+	<li id="menu-item-708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-708"><a href="http://www.ambq.gov.co/barranquilla/">Barranquilla</a></li>
+	<li id="menu-item-706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-706"><a href="http://www.ambq.gov.co/soledad/">Soledad</a></li>
+	<li id="menu-item-704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704"><a href="http://www.ambq.gov.co/malambo/">Malambo</a></li>
+	<li id="menu-item-707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-707"><a href="http://www.ambq.gov.co/puerto-colombia/">Puerto Colombia</a></li>
+	<li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705"><a href="http://www.ambq.gov.co/galapa/">Galapa</a></li>
+	<li id="menu-item-724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-724"><a target="_blank" href="http://www.ambq.gov.co/wp-content/uploads/2016/09/ordenanza-028-del-11-de-diciembre-de-1981.pdf">Ordenanza</a></li>
+</ul>
+</li>
+</ul></div>                       	</div>
+   						<div class="mun-der"></div>
+       				</div>
+                </div>
+
+				<div id="inner-header" class="wrap cf">
+
+										<p id="logo" class="h1 hidden-xs" itemscope itemtype="http://schema.org/Organization"><a href="http://www.ambq.gov.co" title="Area Metropolitana De Barranquilla"><img src="http://www.ambq.gov.co/wp-content/themes/ambq/images/area-metropolitana-de-barranquilla.png" alt="Area Metropolitana de Barranquilla" title="Area Metropolitana de Barranquilla"></a></p>
+                    
+                    <div class="navbar-header menu-movil">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            
+                            <a href="http://www.ambq.gov.co" title="Area Metropolitana De Barranquilla" class="logomovil"><img src="http://www.ambq.gov.co/wp-content/themes/ambq/images/area-metropolitana-de-barranquilla.png" alt="Area Metropolitana de Barranquilla" title="Area Metropolitana de Barranquilla"></a>
+                            
+                            <div class="collapse navbar-collapse navbar-responsive-collapse">
+                            	<nav role="navigation" class="nav-principal-movil" itemscope itemtype="http://schema.org/SiteNavigationElement">
+									<ul id="menu-menu-principal" class="nav top-nav cf"><li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-51"><a href="http://www.ambq.gov.co/">Inicio</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46"><a>Quienes Somos</a>
+<ul class="sub-menu">
+	<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.ambq.gov.co/quienes-somos/mision/">Misión</a></li>
+	<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.ambq.gov.co/quienes-somos/vision/">Visión</a></li>
+	<li id="menu-item-1206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1206"><a href="http://www.ambq.gov.co/quienes-somos/competencias/">Competencias</a></li>
+	<li id="menu-item-1209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1209"><a href="http://www.ambq.gov.co/quienes-somos/funciones/">Funciones</a></li>
+	<li id="menu-item-749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749"><a href="http://www.ambq.gov.co/quienes-somos/localizacion-fisica/">Localización Física</a></li>
+	<li id="menu-item-755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755"><a href="http://www.ambq.gov.co/quienes-somos/horario-de-atencion/">Horario de Atención</a></li>
+	<li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-758"><a href="http://www.ambq.gov.co/quienes-somos/organigrama/">Organigrama</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.ambq.gov.co/quienes-somos/objetivos/">Objetivos</a></li>
+	<li id="menu-item-762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-762"><a>Manuales</a>
+	<ul class="sub-menu">
+		<li id="menu-item-765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-asesora-de-prensa-y-comunicacion/manual-de-identidad-corporativa/">Manual de Identidad Corporativa</a></li>
+		<li id="menu-item-774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774"><a href="http://www.ambq.gov.co/quienes-somos/codigo-de-etica/">Código de Ética</a></li>
+		<li id="menu-item-773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><a href="http://www.ambq.gov.co/quienes-somos/manual-de-convivencia__trashed/">Manual de Convivencia</a></li>
+		<li id="menu-item-772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="http://www.ambq.gov.co/quienes-somos/reglamento-interno/">Reglamento Interno</a></li>
+		<li id="menu-item-1848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-asesora-de-prensa-y-comunicacion/manual-de-comunicaciones/">Manual de Comunicaciones</a></li>
+		<li id="menu-item-2305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2305"><a href="http://www.ambq.gov.co/quienes-somos/manual-de-politica-de-tratamiento-de-datos-personales/">Manual de Política de Tratamiento de Datos Personales</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-745" class="menu-dependencias menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-745"><a>Nuestras Dependencias</a>
+<ul class="sub-menu">
+	<li id="menu-item-908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-908"><a>Direccionamiento Estratégico</a>
+	<ul class="sub-menu">
+		<li id="menu-item-841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-841"><a href="http://www.ambq.gov.co/nuestras-dependencias/direccion/">Dirección General</a></li>
+		<li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-848"><a href="http://www.ambq.gov.co/nuestras-dependencias/secretaria-general/">Secretaría General</a></li>
+		<li id="menu-item-851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-851"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-asesora-de-control-interno/">Oficina Asesora de Control Interno</a></li>
+		<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-856"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-asesora-de-prensa-y-comunicacion/">Oficina Asesora de Prensa y Comunicación</a></li>
+	</ul>
+</li>
+	<li id="menu-item-909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-909"><a>Subdirecciones</a>
+	<ul class="sub-menu">
+		<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-857"><a href="http://www.ambq.gov.co/nuestras-dependencias/subdireccion-tecnica-de-planeacion/">Subdirección Técnica de Planeación</a></li>
+		<li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863"><a href="http://www.ambq.gov.co/nuestras-dependencias/subdireccion-administrativa-y-financiera/">Subdirección Administrativa y financiera</a></li>
+		<li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href="http://www.ambq.gov.co/nuestras-dependencias/subdireccion-tecnica-operativa/">Subdirección Técnica Operativa</a></li>
+		<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a href="http://www.ambq.gov.co/nuestras-dependencias/subdireccion-tecnica-de-transporte/">Subdirección Técnica de Transporte</a></li>
+		<li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-872"><a href="http://www.ambq.gov.co/nuestras-dependencias/subdireccion-tecnica-de-recursos-naturales-y-ambiente/">Subdirección Técnica de Recursos Naturales y Ambiente</a></li>
+	</ul>
+</li>
+	<li id="menu-item-910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-910"><a>Oficinas</a>
+	<ul class="sub-menu">
+		<li id="menu-item-875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-875"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-organizacion-metodos-y-procedimientos/">Oficina de Organización (Informática), Métodos y Procedimientos</a></li>
+		<li id="menu-item-878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-878"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-administrativa/">Oficina Administrativa</a></li>
+		<li id="menu-item-881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881"><a href="http://www.ambq.gov.co/nuestras-dependencias/tesoreria-general/">Tesorería General</a></li>
+		<li id="menu-item-884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-884"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-presupuesto/">Oficina de Presupuesto</a></li>
+		<li id="menu-item-887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-contabilidad/">Oficina de Contabilidad</a></li>
+		<li id="menu-item-890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-890"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-recursos-humanos/">Oficina de Recursos Humanos</a></li>
+		<li id="menu-item-893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="http://www.ambq.gov.co/nuestras-dependencias/almacen-general/">Almacén General</a></li>
+		<li id="menu-item-896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-896"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-archivo-y-correspondencia/">Oficina de Archivo y Correspondencia</a></li>
+		<li id="menu-item-899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-mantenimiento-y-servicios-generales/">Oficina de Mantenimiento y Servicios Generales</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="http://www.ambq.gov.co/nuestro-director/">Nuestro Director</a></li>
+<li id="menu-item-511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a href="http://www.ambq.gov.co/transparencia/">Transparencia</a></li>
+<li id="menu-item-674" class="menu-item-type-custom menu-item menu-item-object-custom menu-item-674"><a target="_blank" href="http://www.ambq.gov.co/pqr/">PQRS</a></li>
+</ul>            
+                                </nav>
+                            </div>
+					</div>
+                    
+															
+                    <div class="menu-header">
+                    	
+                        <div class="municipios hidden-xs">
+                     		<div class="logos-municipios">
+                     			<div class="menu-menu-municipios-container"><ul id="menu-menu-municipios" class="menu"><li id="menu-item-412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-412"><a target="_blank" href="http://www.barranquilla.gov.co/"><img width="79" height="40" src="http://www.ambq.gov.co/wp-content/uploads/2016/09/barranquilla.png" class="_mi _before _image" alt="barranquilla" aria-hidden="true" style="vertical-align:text-bottom;" /><span>Barranquilla</span></a></li>
+<li id="menu-item-419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-419"><a target="_blank" href="http://www.soledad-atlantico.gov.co/"><img width="27" height="40" src="http://www.ambq.gov.co/wp-content/uploads/2016/09/soledad.png" class="_mi _before _image" alt="logo-soledad" aria-hidden="true" style="vertical-align:text-bottom;" /><span>Soledad</span></a></li>
+<li id="menu-item-420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420"><a target="_blank" href="http://www.malambo-atlantico.gov.co/"><img width="43" height="41" src="http://www.ambq.gov.co/wp-content/uploads/2016/09/malambo.png" class="_mi _before _image" alt="logo-malambo" aria-hidden="true" style="vertical-align:text-bottom;" /><span>Malambo</span></a></li>
+<li id="menu-item-418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-418"><a target="_blank" href="http://puertocolombia-atlantico.gov.co/"><img width="29" height="42" src="http://www.ambq.gov.co/wp-content/uploads/2016/09/puerto-colombia.png" class="_mi _before _image" alt="puerto-colombia" aria-hidden="true" style="vertical-align:text-bottom;" /><span>Puerto Colombia</span></a></li>
+<li id="menu-item-421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-421"><a target="_blank" href="http://www.galapa-atlantico.gov.co/"><img width="45" height="41" src="http://www.ambq.gov.co/wp-content/uploads/2016/09/galapa.png" class="_mi _before _image" alt="logo-galapa" aria-hidden="true" style="vertical-align:text-bottom;" /><span>Galapa</span></a></li>
+</ul></div>                    		</div>
+                        </div>
+                        
+                        <div class="nav-header hidden-xs">
+                        	<div class="menu-izq"></div>
+                            <nav role="navigation" class="nav-principal" itemscope itemtype="http://schema.org/SiteNavigationElement">
+                                <ul id="menu-menu-principal-1" class="nav top-nav cf"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-51"><a href="http://www.ambq.gov.co/">Inicio</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-46"><a>Quienes Somos</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.ambq.gov.co/quienes-somos/mision/">Misión</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.ambq.gov.co/quienes-somos/vision/">Visión</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1206"><a href="http://www.ambq.gov.co/quienes-somos/competencias/">Competencias</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1209"><a href="http://www.ambq.gov.co/quienes-somos/funciones/">Funciones</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749"><a href="http://www.ambq.gov.co/quienes-somos/localizacion-fisica/">Localización Física</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755"><a href="http://www.ambq.gov.co/quienes-somos/horario-de-atencion/">Horario de Atención</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-758"><a href="http://www.ambq.gov.co/quienes-somos/organigrama/">Organigrama</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.ambq.gov.co/quienes-somos/objetivos/">Objetivos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-762"><a>Manuales</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-asesora-de-prensa-y-comunicacion/manual-de-identidad-corporativa/">Manual de Identidad Corporativa</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774"><a href="http://www.ambq.gov.co/quienes-somos/codigo-de-etica/">Código de Ética</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><a href="http://www.ambq.gov.co/quienes-somos/manual-de-convivencia__trashed/">Manual de Convivencia</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="http://www.ambq.gov.co/quienes-somos/reglamento-interno/">Reglamento Interno</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-asesora-de-prensa-y-comunicacion/manual-de-comunicaciones/">Manual de Comunicaciones</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2305"><a href="http://www.ambq.gov.co/quienes-somos/manual-de-politica-de-tratamiento-de-datos-personales/">Manual de Política de Tratamiento de Datos Personales</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-dependencias menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-745"><a>Nuestras Dependencias</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-908"><a>Direccionamiento Estratégico</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-841"><a href="http://www.ambq.gov.co/nuestras-dependencias/direccion/">Dirección General</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-848"><a href="http://www.ambq.gov.co/nuestras-dependencias/secretaria-general/">Secretaría General</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-851"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-asesora-de-control-interno/">Oficina Asesora de Control Interno</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-856"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-asesora-de-prensa-y-comunicacion/">Oficina Asesora de Prensa y Comunicación</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-909"><a>Subdirecciones</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-857"><a href="http://www.ambq.gov.co/nuestras-dependencias/subdireccion-tecnica-de-planeacion/">Subdirección Técnica de Planeación</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863"><a href="http://www.ambq.gov.co/nuestras-dependencias/subdireccion-administrativa-y-financiera/">Subdirección Administrativa y financiera</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href="http://www.ambq.gov.co/nuestras-dependencias/subdireccion-tecnica-operativa/">Subdirección Técnica Operativa</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a href="http://www.ambq.gov.co/nuestras-dependencias/subdireccion-tecnica-de-transporte/">Subdirección Técnica de Transporte</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-872"><a href="http://www.ambq.gov.co/nuestras-dependencias/subdireccion-tecnica-de-recursos-naturales-y-ambiente/">Subdirección Técnica de Recursos Naturales y Ambiente</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-910"><a>Oficinas</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-875"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-organizacion-metodos-y-procedimientos/">Oficina de Organización (Informática), Métodos y Procedimientos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-878"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-administrativa/">Oficina Administrativa</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881"><a href="http://www.ambq.gov.co/nuestras-dependencias/tesoreria-general/">Tesorería General</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-884"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-presupuesto/">Oficina de Presupuesto</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-contabilidad/">Oficina de Contabilidad</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-890"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-recursos-humanos/">Oficina de Recursos Humanos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="http://www.ambq.gov.co/nuestras-dependencias/almacen-general/">Almacén General</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-896"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-archivo-y-correspondencia/">Oficina de Archivo y Correspondencia</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899"><a href="http://www.ambq.gov.co/nuestras-dependencias/oficina-de-mantenimiento-y-servicios-generales/">Oficina de Mantenimiento y Servicios Generales</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="http://www.ambq.gov.co/nuestro-director/">Nuestro Director</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a href="http://www.ambq.gov.co/transparencia/">Transparencia</a></li>
+<li class="menu-item-type-custom menu-item menu-item-object-custom menu-item-674"><a target="_blank" href="http://www.ambq.gov.co/pqr/">PQRS</a></li>
+</ul>        
+                            </nav>
+                            <div class="menu-der"></div>
+                        </div>
+					</div>
+                    
+				</div>
+
+			</header>
+
+			<div class="header-internos">
+            
+            	<div class="wrap cf">
+                
+            		<h1 class="page-title">Archivos</h1>                </div>
+                
+                <div class="header-internos-linea"></div>
+            </div>
+
+			<div id="content">
+
+				<div id="inner-content" class="wrap cf">
+
+					<main id="main" class="m-all t-2of3 d-5of7 cf" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
+
+						<article id="post-not-found" class="hentry cf">
+
+							<header class="article-header">
+
+								<h1>Épico 404 - Artículo no encontrado</h1>
+
+							</header>
+
+							<section class="entry-content">
+
+								<p>¡El artículo que estás buscando no ha sido encontrado, pero puedes intentarlo más adelante!</p>
+
+							</section>
+
+							<section class="search col-md-12">
+
+									<p><form role="search" method="get" id="searchform" class="searchform" action="http://www.ambq.gov.co/">
+    <div>
+        <label for="s" class="screen-reader-text">Buscar por:</label>
+        <input type="search" id="s" name="s" value="" />
+
+        <button type="submit" id="searchsubmit" >Search</button>
+    </div>
+</form></p>
+
+							</section>
+
+							<footer class="article-footer">
+
+									<p></p>
+
+							</footer>
+
+						</article>
+
+					</main>
+
+				</div>
+
+			</div>
+
+			<footer class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+
+				<div id="inner-footer" class="wrap cf">
+
+					<nav role="navigation">
+						<div class="footer-links cf"><ul id="menu-menu-footer" class="nav footer-nav cf"><li id="menu-item-61" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-61"><a href="http://www.ambq.gov.co/">Inicio</a></li>
+<li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a href="http://www.ambq.gov.co/contacto/">Contacto</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.ambq.gov.co/politica-de-privacidad/">Política de privacidad</a></li>
+<li id="menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="http://www.ambq.gov.co/condiciones-de-uso/">Condiciones de Uso</a></li>
+<li id="menu-item-323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-323"><a href="http://www.ambq.gov.co/category/noticias/">Noticias</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="http://www.ambq.gov.co/transparencia/">Transparencia</a></li>
+<li id="menu-item-1039" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1039"><a target="_blank" href="http://www.ambq.gov.co/pqr/">PQRS</a></li>
+</ul></div>					</nav>
+
+				</div>
+                
+                <div class="enlaces-interes">
+                	<div class="wrap cf">
+                        <ul id="flexiselDemo3">
+                            
+                                                                                                        <li>
+                                   		<a href="https://www.sivirtual.gov.co/" target="_blank" title="Gobierno en línea"><img src="http://www.ambq.gov.co/wp-content/uploads/2016/09/gobierno-en-linea.jpg" class="img-responsive"></a>
+                                    </li> 
+        
+                                                                                                        <li>
+                                   		<a href="http://www.barranquilla.gov.co/" target="_blank" title="Alcaldía Distrital de Barranquilla"><img src="http://www.ambq.gov.co/wp-content/uploads/2016/09/alcaldia-de-barranquilla.jpg" class="img-responsive"></a>
+                                    </li> 
+        
+                                                                                                        <li>
+                                   		<a href="http://www.atlantico.gov.co/" target="_blank" title="Gobernación del Atlántico"><img src="http://www.ambq.gov.co/wp-content/uploads/2016/09/gobernacion-del-atlantico.jpg" class="img-responsive"></a>
+                                    </li> 
+        
+                                                                                                        <li>
+                                   		<a href="http://www.metropol.gov.co/" target="_blank" title="Area Metropolitana del Valle de Aburra"><img src="http://www.ambq.gov.co/wp-content/uploads/2016/09/area-metropolitana.jpg" class="img-responsive"></a>
+                                    </li> 
+        
+                                                                                                        <li>
+                                   		<a href="http://www.amc.gov.co/area/" target="_blank" title="Area Metropolitana De Cúcuta"><img src="http://www.ambq.gov.co/wp-content/uploads/2016/09/area-metropolitana-de-cucuta.jpg" class="img-responsive"></a>
+                                    </li> 
+        
+                                                                                                        <li>
+                                   		<a href="http://amco.gov.co/" target="_blank" title="Área Metropolitana Centro Occidente"><img src="http://www.ambq.gov.co/wp-content/uploads/2016/09/area-metropolitana-centro-occidente.jpg" class="img-responsive"></a>
+                                    </li> 
+        
+                                                                                                        <li>
+                                   		<a href="http://www.amb.gov.co/" target="_blank" title="Área Metropolitana de Bucaramanga"><img src="http://www.ambq.gov.co/wp-content/uploads/2016/09/area-metropolitana-de-bucaramanga.jpg" class="img-responsive"></a>
+                                    </li> 
+        
+                                                        </ul>
+                        
+                	</div>
+                </div>
+                
+                <div class="copyright">
+               		<p class="source-org wrap">Carrera 51B No. 79 – 285 Barranquilla - Atlántico PBX: 3671400 - Horario de atención al público: 8:00 a.m. a 12:00 m., y de 1:00 p.m. a 5:00 p.m <span class="copy">&copy; 2017 Area Metropolitana De Barranquilla.</span></p>
+				</div>
+			</footer>
+
+		</div>
+
+				<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.ambq.gov.co\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}},"sending":"Enviando..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/plugins/dynamic-to-top/js/libs/jquery.easing.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mv_dynamic_to_top = {"text":"Ir Arriba","version":"0","min":"200","speed":"1100","easing":"easeInExpo","margin":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/plugins/dynamic-to-top/js/dynamic.to.top.min.js'></script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-content/themes/ambq/library/js/scripts.js'></script>
+<script type='text/javascript' src='http://www.ambq.gov.co/wp-includes/js/wp-embed.min.js'></script>
+
+	</body>
+
+</html> <!-- end of site. what a ride! -->
+
+
+<script type="text/javascript">
+
+$(window).load(function() {
+    $("#flexiselDemo3").flexisel({
+        visibleItems: 6,
+        itemsToScroll: 1,         
+        autoPlay: {
+            enable: true,
+            interval: 5000,
+            pauseOnHover: true
+        }        
+    });
+    
+});
+</script>
